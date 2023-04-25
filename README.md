@@ -1,6 +1,6 @@
 # A unified optimization framework of ANN-SNN Conversion: towards optimal mapping from activation values to firing rates
 
-## Accepted at [ICML2023](https://openreview.net/forum?id=6nFolgGq9E)
+## Accepted at ICML2023, check [ICML2023 openview](https://openreview.net/forum?id=6nFolgGq9E).
 
 
 ## Usage
