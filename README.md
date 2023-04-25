@@ -1,5 +1,8 @@
 # A unified optimization framework of ANN-SNN Conversion: towards optimal mapping from activation values to firing rates
 
+## Accepted at [ICML2023](https://openreview.net/forum?id=6nFolgGq9E)
+
+
 ## Usage
 
 Please first change the variable `DIR` at File `.Preprocess\getdataloader.py` (line 12) to your own dataset directory. 
